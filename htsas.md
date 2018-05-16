@@ -1,4 +1,4 @@
-Lecture 10 - Culture (Brian Chesky)
+## Lecture 10 - Culture (Brian Chesky)
 
 What is Culture?
  - Set of values
@@ -40,3 +40,35 @@ Brian (Q&A)
 
   - the promise outside the company that everyone identifies with.
   - Is the connection between you and the customers.
+
+
+## Lecture 11 - Hiring and culture
+
+Core peaces of culture for pinterest and stripe
+ - Who do we hire?
+ - What do you choose to celebrate?
+ - Transparency Internally
+ - Leverage.
+ - Culture is the invariance that you want to mantain.
+
+What do you look for in those 10 first employees?
+ - People like ourselves (?).
+ - Low ego and creative.
+ - Multidisciplinary are great (?).
+ - Purest reason (mostly excited for the product).
+ - Hire by reference (friends of friends).
+ - Genuine, caring and great deal.
+
+How do you identify really great candidates?
+ - What is really world class?
+ - Reasearch what are the characteristics of that kind of role.
+ - Care about your employees at a deep level.
+
+Up and running process, how do you get to give results after you hire them?
+ - Give feedback quickly, specially regarding culture.
+
+Lessons learned (biggest change made to the first draft)
+ - A lot of changes.
+ - Startups of many startups.
+ - turn towards professional recruiters.
+ - How fast time ranges changes.
