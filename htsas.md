@@ -72,3 +72,40 @@ Lessons learned (biggest change made to the first draft)
  - Startups of many startups.
  - turn towards professional recruiters.
  - How fast time ranges changes.
+ 
+ ## Lecture 12 - Building for the enterprise (Aaron Levie)
+
+### How did we get to the enterprise environment?
+ - We identified rapidly changing factors.
+
+### Over-serving consumers and under-serving enterprise
+
+### Choose to focus consumers or enterprises
+
+### Prices
+ - 35M Mobile apps.
+ - 135M Advertisement.
+ - 3.5T IT apps.
+
+### No one believes them and someone bet on them! Luckily
+
+### Everything has change
+ - On-premise computing -> Cloud.
+ - Expensive computing -> Cheap.
+ - Customized software -> Standard.
+ - Large enterprises -> Every business.
+ - Regional -> Global.
+
+### Every industry is changing
+
+### Every company in the world needs technology to work smarter, faster, more securely.
+
+### How do you get started?
+ - Spot on technology disruptions.
+ - Intentionally start small.
+ - Find asymmetries.
+ - Find the almost-crazy outliers.
+ - Listen to customers.
+ - Modularize, don't customize.
+ - Your product should sell itself.
+   (You will still need salesmans)
