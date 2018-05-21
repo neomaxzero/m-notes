@@ -109,3 +109,68 @@ Lessons learned (biggest change made to the first draft)
  - Modularize, don't customize.
  - Your product should sell itself.
    (You will still need salesmans)
+
+## Lecture 13 - How to be a great founder
+
+### Expectation vs Reality
+ - There is a image as founder as a super-person.
+ - In reality is someone that deal with a lot of stresful problems.
+
+### How is the super founder?
+ - Founding team.
+ - Delegation.
+ - Location.
+ - Vision.
+ - Focus.
+ - Flexibility.
+ - Evaluation. etc etc.
+
+Lets focus on a subset
+
+### My founding team
+
+- You can compensate for each other weaknesses.
+- Broader skills to attack problems.
+- Having a high degree of trust between the co-founders.
+- Diversity of tasks.
+
+### Location
+
+ - Silicon Valley? Immigrations.
+ - Groupon works in chicago! Example.
+ - Fashion company in SV??? Not such a great Idea.
+ - *You want the network that support what i am doing!*
+
+### Should I be contrarian?
+ - In general is good to be contrarian, not just to be stupid contrarian.
+
+### You should be flexible and persistent!.
+ - Listen to data, listen to customers.
+
+### You should be confident and cautios!
+ - Be smart enough to listen to criticizing and bad news.
+
+### You should focus internally and externally.
+
+### You should work by vision and data, anda the vision should include the data!
+
+### You have to be a risk taker!!! Part of the skillset that you are beginning to apply is how to minimize risks.
+
+### Short term vs Long term
+ - Money, think on ??? ( I got lost)
+
+### Network!
+ - Ability to adapt.
+ - Create networks around you.
+ - Breaking to the noise is really key.
+
+### I'm a huge believer on reference.
+
+### Creating markets vs descovery
+ - Include in your thesis.
+ - Most of us don't create only discovers.
+
+### A founder is a risk
+ - Can you spend 20hs with him?
+ 
+ 
