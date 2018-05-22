@@ -173,4 +173,37 @@ Lets focus on a subset
 ### A founder is a risk
  - Can you spend 20hs with him?
  
- 
+## Lecture 14 - How to operate (Keith Rabois)
+
+### Building a company is something irrational
+ - That was really operating is about.
+ - Building a company is like building an engine.
+ - You wanna focus on the output not the input.
+
+### Framework for when things are call or fatal
+ - Editing.
+### Simplify, simplify simplify (omitting things)
+  - Clarify.
+  - Start eliminating stuff.
+  - What are the 2 to 4 things are most important to the company?
+### Allocate resources.
+ - *Ensure consistent voice*. This is extremely difficult to do. Everything should feel exactly the same.
+### Delegate.
+ - Advicate vs micromanagement.
+ - Task-relevant maturity. Check this out.
+ - Low consecuencies and low opinion should be delegated.
+ - High consecuencies you should take those decitions.
+### Barrels & Ammunition
+ - Usually when you hire bore engineers is not going to work that well.
+ - Barrels are incredible difficult to find. Cultural specific.
+ - Expand the scope of the responsability until it break, it always does.
+### Scaling.
+ - When to hire and when to allow internal growth.
+### *Insist on Focus!*
+### Metrics & Transparency.
+ - Build a dashboard.
+ - Gathering & Simplifying information.
+### Details Matter.
+### Office matters.
+
+
