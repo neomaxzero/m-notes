@@ -207,3 +207,25 @@ Lets focus on a subset
 ### Office matters.
 
 
+## Lecture 15 - How to manage (Ben Horowitz)
+
+### One management concept 
+
+ - When making a critical decision you must understand hot it will be intepreted by a lot of participants (if not everyone).
+
+ ### Demotions
+  - Do you demote or fire?
+    Demote! but careful
+ ### Raises
+- A new employee ask for a raise, what to do?
+    - If you give them a raise, everyone else will start asking questions.
+    - Encoureging behaviour
+    - *No raises outside of the process.!! It protect the culture*
+ ### We evaluate a Sam Altman blog post.
+
+ ### History s greatest practicioner
+
+
+
+
+
