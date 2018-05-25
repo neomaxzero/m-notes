@@ -225,6 +225,32 @@ Lets focus on a subset
 
  ### History s greatest practicioner
 
+## Lecture 16 - How to Run a User Interview (Emmet Shear)
+
+### Talk to users. Dedicate to it.
+ - Who am i going to talk to if i about to build something?
+ - Sometimes there are no obvious critical users.
+ - Established an audience, an grab a broad type of perspective.
+ - Listen to 6 to 8 people, and try to find the patterns.
+
+ ### That extra feature
+  - That will make the user switch to your product!
+  - Is not hard.
+  - Should be taken from the information gathered.
+
+### Detect areas of pain while using the product.
+ - Research on the specifics that customers are providing.
+
+### Talk to users, and also with Non-users.
+ - Potential candidates that are not turning to users because of a bunch of different problems.
+
+### Don't focus on the issues, best to focus in the goal that they are trying to achieve
+
+### Common mistakes
+ - Show the people your product.
+ - Talk to people you need to talk to, instead of the ones that are available.
+ - Record interviews instead of taking notes. (more engagedment).
+ 
 
 
 
