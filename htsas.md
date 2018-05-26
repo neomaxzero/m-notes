@@ -250,7 +250,43 @@ Lets focus on a subset
  - Show the people your product.
  - Talk to people you need to talk to, instead of the ones that are available.
  - Record interviews instead of taking notes. (more engagedment).
- 
+
+## Lecture 17 - How to design Hardware products (Hosain Rahman)
+
+### How jawbone look at the world
+ - Weareable computers and starting before the IoT.
+ - Hardware dont talk to each other.
+ - We need some organizing principles to ease the interaction.
+ - Wearable are the center of this evolution.
+
+### Complete platform requires:
+ - Hardware / Software / Data.
+ - Has to work together.
+ - Friction between hardware building and software cycles.
+
+### Everything is a system
+- How we create?
+ - Nice graphs to check on the Video!
+- The process is kind of an experiment. 
+
+### Exploration Process:
+ - Show and tell.
+ - Early validation.
+  Again: Cool graphs!!! Worth checking.
+  Can we build it? Do we need to wait?
+
+### Concept
+ - The Whys! why is this going to be used?
+
+### The framework
+ - Whys
+   - What is the user problem that once we solve users can't live without it?
+   - Experience continum.
+   - We think about ourself as an *Experiences company*.
+ - Themes
+ - Pods
+ - Hero/Sidekick experiences
+ - Features
 
 
 
