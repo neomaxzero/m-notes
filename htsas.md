@@ -288,6 +288,65 @@ Lets focus on a subset
  - Hero/Sidekick experiences
  - Features
 
+ ## Lecture 18 - Legal and accounting basics for startups
 
+ - Not get trap in details!
+
+ - Easiest chose is the delaware. Its the standard
+
+ - Inverstors are very comfortable with delaware.
+
+ ### Be organized
+
+ Law services online
+  - www.Clecky.com
+
+- Keep your documents organized.
+
+### Equity allocation
+
+ - Execution > Idea. (Ideas = 0)
+
+ - Ownership should be proportionate.
+  (Allocation should be EQUAL)
+   It doesnt matter what it happened before.
+  
+### Sign the papers!!! 
+
+### Vesting (Restricted stock)
+- Vesting period.
+- 4 years.
+- Founders needs to enforce this mechanism! 
+- Single founders should have it too.
+
+### Logistic
+ - Priced vs Non-priced rounds.
+ - Paperwork alert.
+
+### Investors requests
+ - Board seat. (In most cases you wanna say no). Choose wisely.
+
+ - Defacto advisor but just an advise.
+
+ - Pro rata rates. Avoid dillusion. (Critical to foudners to know about this)
+
+ - Give month updates to investors if possible.
+
+### Company Expenses
+ - Business expenses.
+ - You shouldnt be ashamed of this. If that the case that not a business expense.
+
+### Doing Business
+ - Founder employment.
+ - Setup a payroll service.
+
+### Hiring Employees
+ - Paperwork alert.
+ - Employee vs contractor.
+### Firing Employees
+ - Fire quickly.
+ - Communicate effectively.
+ - Face to face with a 3rd party present.
+ - Cut off access on systems.
 
 
