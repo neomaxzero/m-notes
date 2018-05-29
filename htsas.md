@@ -488,3 +488,116 @@ Law services online
 * Work on creating deal heat.
 * Do dilligence on investors.
 * Know when to stop.
+
+## Lecture 20 - Later-stage advice (Sam Altman)
+
+Things you don't think in the short term.
+
+WARNING: After product-market fit
+
+### Management
+
+* Need it about 25 employees.
+* Clear reporting structure.
+* Clarity and simplicity is the most important.
+* Don't innovate in management structures. (Not recommended)
+
+From Building a GREAT product >> To Building a great company.
+
+### Failure cases
+
+* Being afraid to hire senior people.
+* Hero mode - extreme leading by example.
+* Bad delegation. Total trustness.
+* Not developing a personal tracking and productivity systems.
+
+### Codify how you do things.
+
+* Write it down!!! it scale, everyone can have access to it.
+
+### Codify the why earlier.
+
+### HR
+
+* It can speed you up.
+* Performance feedback - simple and _Frequent_.
+
+- Compensation band to performance
+- Equity - be generous
+  * Your investors will give you bad advice.
+
+2step:
+
+* 50 employees (Sort of)
+* Sexual harassment training.
+* Think about diversity.
+
+### Company Productivity
+
+* Alignment.
+
+- Clear roadmap and goals.
+- Figure out values early.
+- Ship everyday!!!
+- Focus has to always be on building a great product.
+- Transparency and rythm in communication.
+
+### Mechanics
+
+* Clean books, accouting firm, audits.
+* Collect your legal documents.
+* FF Stock in the B round.
+* IP Trademarks and patents.
+* FInancial planning & Analysis
+* Consider hiring a fulltime fundraiser.
+* Tax structuring.
+
+### Your psychology
+
+* It keeps intensifying.
+* Ignore the haters.
+
+- Long-term commitments.
+- Monitor burnout.
+  * Take vacations!!!
+- Focus.
+- Ignore acquisition interest.
+- _Startups fail when founders quit._
+
+### Marketing & PR
+
+* Don't ignore it.
+* Don't outsource the key messaging.
+* Repeat the key message.
+* Contact them yourself.
+
+### Deals key points
+
+* Build a great product.
+* Develop a personal connection.
+* Have a competitive dynamic.
+* Be persistent!.
+* Ask for what you want.
+
+### Cool drawings!! (Check the video)
+
+## Course Finished
+
+A few questions I come up with to give my personal opinion about this subject.
+
+* How was the lectures?
+  There were a rollercoaster of different levels of emotions and knowledge levels. Most of the lectures have something that is key on it. I'm sure that I cannot grab the key things in one shoot, but I got most of the philosophy intended.
+
+* Would you watch it enterily again?
+  Nop. It was too broad. I understand the course was intended to be generic and with a wide variety. I would prefer something more deep and specific.
+
+* Which episodes do you recommend?
+  The one of Culture by Brayan Chesky and the one of how to manage are definitily great.
+
+* How are you going to proceed with all this new knowledge?
+  I will let my mind rest about this topic for a few days and then re check my notes to see what I should re make or if i completely lost the entire lecture i will try to set up a reviewing.
+
+* Would you recommend watching the entire course to someone else?
+  Yes! Definitely, there is no much well structured courses like this and is free!! :D
+
+Overall: 3.4/5
