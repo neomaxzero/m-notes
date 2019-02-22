@@ -7,6 +7,11 @@
 
 > You cannot miss the Bus stop come out of arrivals and cross a service Road, the Bus stops are there, clearly marked for the 2 services, When you get to Piazzale Roma for the Vaporetto stop, pass by the actv ticket office you will see the big New Bridge, the stops are along the Canal to the left. for your Hotel the best stop is Vallaresso line 1 or 2 , going to rhe right in direction, (past the Santa Lucia Station)
 
+### Vaporetto economic pass
+
+- 24 hs ticket ($20)
+- 48 hs ticket ($20)
+
 
 ## One day in venecia Trip
 
